@@ -1,3 +1,3 @@
-#Learning Git
+#LearningGit
 
 Super cool
